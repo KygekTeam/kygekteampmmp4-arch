@@ -5,5 +5,6 @@ pkgbase = kygekteampmmp4
 	url = https://kygekteam.org/pm4
 	arch = x86_64
 	license = GPL
+	makedepends = wget
 
 pkgname = kygekteampmmp4

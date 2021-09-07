@@ -11,6 +11,7 @@ pkgdesc="PocketMine-MP 4 as an Arch/AUR package!"
 arch=(x86_64)
 url="https://kygekteam.org/pm4"
 license=('GPL')
+makedepends=('wget')
 
 package() {
 	mkdir $pkgdir/kygekteampmmp4
